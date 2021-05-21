@@ -1,0 +1,10 @@
+footer{
+    background: #222;
+    color:white !important;
+}
+section a,footer a{
+    color:#f5ba1a !important;
+}
+footer a:hover, section a:hover{
+    color:#d59a0a
+}
