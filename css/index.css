@@ -1,0 +1,23 @@
+
+.tabela {
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid #ddd;
+}
+
+    .tabela th {
+        padding: 10px 6px 6px 6px;
+        border-bottom: 2px solid #ddd;
+    }
+
+    .tabela td {
+        padding: 6px;
+    }
+
+    .tabela tr {
+        border-top: 1px solid #ddd;
+    }
+
+    .tabela tbody tr:nth-child(odd) {
+        background: #fafafa;
+    }
